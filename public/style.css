@@ -1,0 +1,41 @@
+#Titulo{
+    font-size: 20px; 
+  }
+  
+  #Ano{
+    font-size: 20px;
+  }
+  
+  #inp_titulo{
+    border-radius: 20px;
+    width: 20vw;
+    height: 4vh;
+    font-size: 15px;
+    text-indent: 12px;
+  }
+  
+  #inp_ano{
+    border-radius: 20px;
+    width: 20vw;
+    height: 4vh;
+    font-size: 15px;
+    text-indent: 12px;
+  }
+  
+  .lista {
+    border-collapse: collapse;
+  }
+  
+  .cabecalho {
+    background-color: #ddd;
+  }
+  
+  .tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  
+  .td {
+    padding: .5em 1em;
+    border: 1px solid #000
+  }
